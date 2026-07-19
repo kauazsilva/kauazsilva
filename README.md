@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Kauan Silva and I'm from Ourinhos-SP</h2>
+<h2 data-importer="text" align="left">Hey 👋 What's up? My name is Kauan Silva and I'm from Ourinhos-SP</h2>
 
 ###
 
